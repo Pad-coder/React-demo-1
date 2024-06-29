@@ -35,9 +35,7 @@ function App() {
       }
   ]
   
-  return<>
- 
-<div className="container">
+  return<> <div className="container">
   <h1 className="my-4">World iconics</h1>
   <div className="row">
   {
